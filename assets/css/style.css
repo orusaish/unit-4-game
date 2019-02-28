@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  justify-content: center;
+  background-color: grey;
+}
+.container {
+  text-align: center;
+  justify-content: center;
+  background-image: url("../images/gravel.png");
+  background-repeat: repeat;
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+h2 {
+  font-size: 20px;
+}
+ol {
+  /* list-style: decimal inside; */
+  text-align: center;
+}
+ul {
+  /* list-style: disc inside; */
+  text-indent: 20px;
+  text-align: center;
+}
+.gems {
+  clear: both;
+}
+.gemImage {
+  height: 60px;
+  margin: 10px;
+}
+.instructions {
+  padding: 30px;
+  margin: 20px;
+  border: black;
+  border-style: solid;
+
+  justify-content: center;
+  text-align: center;
+}
+.header {
+  text-align: center;
+  font-size: x-large;
+}
+p {
+  font-size: 20px;
+  padding: 10px;
+}
+.styleButton {
+  font-size: 20px;
+  padding: 8px;
+  margin: 5px;
+}
